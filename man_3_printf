@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .TH man 3 "15 April 2022" "HOLBERTON SCHOOL" "_PRINTF"
+=======
+.TH _printf 3 "15 April 2022" "1.0" "custom man page"
+>>>>>>> 941f32294c33079dc438164adbda15daacc823eb
 .SH NAME
 .B _printf
 - formatted output conversion
